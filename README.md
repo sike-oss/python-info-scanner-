@@ -6,4 +6,4 @@ button then a Qr bar code will be generated user can download
 that qr and anyone can scan that qr code eith default 
 scanner of thier phone and when they will scan it the information
 which was filled by the user will be displayed on 
-the screen 
+the screen
